@@ -13,7 +13,7 @@ Sou estudante de TI com foco em **desenvolvimento**, possuo uma **boa base em Py
 Atualmente estou ampliando meus conhecimentos na área de **Desenvolvimento Web**, estudando:
 - **HTML**
 - **CSS**
-- **JavaScript**
+- **JavaScript + TypeScript**
 
 O objetivo é construir uma **base web sólida**, entendendo bem a estrutura, estilização e comportamento das aplicações.
 
