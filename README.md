@@ -33,7 +33,7 @@ No meu plano de estudos futuro, pretendo aprender **Banco de Dados**, para compl
 - 🌐 **Desenvolvimento Web (em aprendizado)**
   - HTML5 (aprendendo...)
   - CSS3 (aprendendo...)
-  - JavaScript (após ter base em html e css)
+  - JavaScript +TypeScript (após ter base em html e css)
 
 ---
 
