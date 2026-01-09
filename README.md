@@ -17,7 +17,7 @@ Atualmente estou ampliando meus conhecimentos na área de **Desenvolvimento Web*
 
 O objetivo é construir uma **base web sólida**, entendendo bem a estrutura, estilização e comportamento das aplicações.
 
-No meu plano de estudos futuro, pretendo aprender **Banco de Dados**, para complementar meus conhecimentos e ter uma visão mais completa de sistemas, conforme o que o **mercado de trabalho exige**.
+No meu plano de estudos futuro, pretendo aprender **Java** & **Banco de Dados**, para complementar meus conhecimentos e ter uma visão mais completa de sistemas, conforme o que o **mercado de trabalho exige**.
 
 ---
 
