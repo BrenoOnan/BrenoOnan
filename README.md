@@ -31,9 +31,9 @@ No meu plano de estudos futuro, pretendo aprender **Java** & **Banco de Dados**,
   - Projetos em terminal
 
 - 🌐 **Desenvolvimento Web (em aprendizado)**
-  - HTML5 (aprendendo...)
-  - CSS3 (aprendendo...)
-  - JavaScript +TypeScript (após ter base em html e css)
+  - **HTML**
+- **CSS**
+- **JavaScript + TypeScript**
 
 ---
 
