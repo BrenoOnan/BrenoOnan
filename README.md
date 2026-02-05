@@ -1,5 +1,9 @@
 # 👋 Olá, eu sou o Breno!
 
+**Acompanhe o meu RoadMap**
+
+https://trello.com/b/TLKZDX4K/estudos-dev
+
 🎓 **Estudante de Tecnologia da Informação (TI)** — atualmente no **2º semestre da faculdade**  
 💻 Tenho interesse em atuar na **área de desenvolvimento de software**  
 🚀 Estou em constante aprendizado, buscando construir uma base sólida alinhada com as exigências do mercado
