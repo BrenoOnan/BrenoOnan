@@ -5,8 +5,8 @@
 https://trello.com/b/TLKZDX4K/estudos-dev
 
 🎓 **Estudante de Tecnologia da Informação (TI)** — atualmente no **2º semestre da faculdade**  
-💻 Tenho interesse em atuar na **área de desenvolvimento de software**  
-🚀 Estou em constante aprendizado, buscando construir uma base sólida alinhada com as exigências do mercado
+💻 **Desenvolvimento de software**  
+🚀**Atuar full-stack** 
 
 ---
 
@@ -21,24 +21,33 @@ Atualmente estou ampliando meus conhecimentos na área de **Desenvolvimento Web*
 
 O objetivo é construir uma **base web sólida**, entendendo bem a estrutura, estilização e comportamento das aplicações.
 
-No meu plano de estudos futuro, pretendo aprender **Java** & **Banco de Dados**, para complementar meus conhecimentos e ter uma visão mais completa de sistemas, conforme o que o **mercado de trabalho exige**.
-
+Estudos futuros será aprender **Java** & **Banco de Dados**, para complementar meus conhecimentos e ter uma visão mais completa de sistemas em full stack.
 ---
 
 ## 🛠️ Tecnologias e Conhecimentos
 
-### Linguagens e Ferramentas
-- 🐍 **Python**
-  - Lógica de programação
-  - Funções, dicionários, laços e condicionais
-  - Sistemas CRUD simples
-  - Projetos em terminal
+### 💻 Linguagens e Ferramentas
 
-- 🌐 **Desenvolvimento Web (em aprendizado)**
-  - **HTML**
-  - **CSS**
-  - **JavaScript + TypeScript**
+🐍 Python
 
+**Lógica de programação**
+
+- **Estruturas: funções, dicionários, laços e condicionais**
+
+- **Desenvolvimento de sistemas CRUD simples**
+
+- **Projetos em terminal (linha de comando)**
+
+🌐 Desenvolvimento Web (em aprendizado)
+
+- **HTML**
+- **CSS**
+- **JavaScript e TypeScript**
+
+📰 Projetos Desenvolvidos
+
+- **SP News – Site de notícias desenvolvido com HTML, CSS e JavaScript  
+🔗 Acesse: https://brenoonan.github.io/Site_Sp_News/**
 ---
 
 ## 📦 Projetos
