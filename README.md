@@ -1,78 +1,100 @@
-# 👋 Olá, eu sou o Breno!
+Boa 😄 então vou te entregar uma versão padrão README de dev iniciante full stack + focada em recrutador de estágio em TI, já estruturada do jeito que a galera usa hoje em perfil profissional.
 
-**Acompanhe o meu RoadMap**
+Pode copiar e colar direto no seu README.md 👇
 
-https://trello.com/b/TLKZDX4K/estudos-dev
+# 👋 Olá! Eu sou o Breno Camargo
 
-🎓 **Estudante de Tecnologia da Informação (TI)** — atualmente no **2º semestre da faculdade**  
-💻 **Desenvolvimento de software**  
-🚀**Atuar full-stack** 
+🎓 Estudante de Tecnologia da Informação — 2º semestre  
+💻 Focado em Desenvolvimento de Software  
+🚀 Em formação para atuar como Desenvolvedor Full Stack  
+🔎 Em busca de oportunidade de **Estágio em Desenvolvimento**
+
+📌 Roadmap de estudos:  
+🔗 https://trello.com/b/TLKZDX4K/estudos-dev
 
 ---
 
-## 🧠 Sobre mim
+## 👨‍💻 Sobre mim
 
-Sou estudante de TI com foco em **desenvolvimento**, possuo uma **boa base em Python**, onde já desenvolvi projetos práticos voltados para lógica de programação, controle de estoque e sistemas simples.
+Sou estudante de TI com foco em desenvolvimento e construção de soluções práticas.  
+Possuo base sólida em **Python**, desenvolvendo projetos voltados para lógica de programação, automação e sistemas simples.
 
-Atualmente estou ampliando meus conhecimentos na área de **Desenvolvimento Web**, estudando:
-- **HTML**
-- **CSS**
-- **JavaScript + TypeScript**
+Atualmente estou evoluindo na área de **Desenvolvimento Web**, buscando uma formação completa para atuar como desenvolvedor Full Stack.
 
-O objetivo é construir uma **base web sólida**, entendendo bem a estrutura, estilização e comportamento das aplicações.
+🧠 Perfil:
+- Focado em aprendizado contínuo
+- Organização com Scrum e Kanban
+- Desenvolvimento de projetos práticos
+- Evolução constante em tecnologias web e backend
 
-Estudos futuros será aprender **Java** & **Banco de Dados**, para complementar meus conhecimentos e ter uma visão mais completa de sistemas em full stack.
+📚 Próximos estudos:
+- Java
+- Banco de Dados
+- APIs e Backend Web
+
 ---
 
-## 🛠️ Tecnologias e Conhecimentos
+## 🛠️ Tecnologias e Ferramentas
 
-### 💻 Linguagens e Ferramentas
+### 🐍 Backend / Lógica
+- Python
+- Estruturas de dados
+- Funções e modularização
+- Sistemas CRUD simples
+- Projetos em terminal
 
-🐍 Python
+### 🌐 Frontend (em desenvolvimento)
+- HTML
+- CSS
+- JavaScript
+- TypeScript
 
-**Lógica de programação**
+### ⚙️ Metodologias e Ferramentas
+- Git & GitHub
+- Trello
+- Scrum
+- Kanban
+- VS Code
 
-- **Estruturas: funções, dicionários, laços e condicionais**
-
-- **Desenvolvimento de sistemas CRUD simples**
-
-- **Projetos em terminal (linha de comando)**
-
-🌐 Desenvolvimento Web (em aprendizado)
-
-- **HTML**
-- **CSS**
-- **JavaScript e TypeScript**
-
-📰 Projetos Desenvolvidos
-
-- **SP News – Site de notícias desenvolvido com HTML, CSS e JavaScript  
-🔗 Acesse: https://brenoonan.github.io/Site_Sp_News/**
 ---
 
-## 📦 Projetos
+## 📦 Projetos em Destaque
 
-Aqui no meu GitHub você encontrará projetos como:
-- Sistema de controle de estoque em Python
-- Loja de eletrônicos com controle de produtos
-- Catálogo de produtos no terminal
+### 📰 SP News — Site de Notícias
+Projeto web desenvolvido para praticar estruturação de páginas e desenvolvimento frontend.
 
+🔗 https://brenoonan.github.io/Site_Sp_News/
 
-Esses projetos fazem parte do meu processo de aprendizado e evolução como desenvolvedor.
+### 🐍 Sistema de Controle de Estoque
+Sistema em Python com funcionalidades CRUD para gerenciamento de produtos.
+
+### 📱 Loja de Eletrônicos (Python)
+Projeto focado em lógica de programação e manipulação de dados.
 
 ---
 
 ## 🎯 Objetivo Profissional
 
-🔎 Busco uma **oportunidade de estágio na área de desenvolvimento**, onde eu possa:
-- Aplicar meus conhecimentos na prática
-- Aprender com profissionais da área
-- Evoluir tecnicamente
-- Contribuir com o time e com os projetos da empresa
+Busco uma oportunidade de **estágio em desenvolvimento**, onde eu possa:
+
+- Aplicar conhecimentos técnicos na prática
+- Aprender com desenvolvedores experientes
+- Evoluir como profissional da área de tecnologia
+- Contribuir com projetos reais e soluções eficientes
+
+Tenho grande interesse em desenvolvimento backend e full stack, com foco em crescimento contínuo e boas práticas de programação.
 
 ---
+
+## 📫 Contato
+
+💼 GitHub: https://github.com/BrenoOnan  
+📌 Roadmap de estudos: https://trello.com/b/TLKZDX4K/estudos-dev
+
+---
+
 ⭐ Obrigado por visitar meu perfil!  
-Estou sempre aberto a aprender e evoluir 🚀
+Sempre aprendendo, evoluindo e construindo novos projetos 🚀
 
 <!--
 **BrenoOnan/BrenoOnan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
