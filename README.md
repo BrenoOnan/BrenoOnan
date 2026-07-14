@@ -18,10 +18,14 @@ Possuo conhecimentos em Python, desenvolvendo projetos voltados para lógica de 
 
 
 🧠 Perfil:
-- Focado em aprendizado contínuo
-- Organização com Scrum e Kanban
-- Desenvolvimento de projetos práticos
-- Evolução constante em tecnologias
+
+• Gosto de aprender na prática por meio de projetos.
+
+• Busco escrever códigos cada vez mais organizados e reutilizáveis.
+
+• Valorizo organização e planejamento utilizando Scrum e Kanban.
+
+• Estou em constante evolução, sempre buscando novos conhecimentos.
 
 📚 Próximos estudos:
 - Banco de Dados
