@@ -1,7 +1,9 @@
 # 👋 Olá! Eu sou o Breno Camargo
 
  🎓 Estudante de Análise e Desenvolvimento de Sistemas — 3º semestre 
+ 
  💻 Python • SQL • HTML • CSS • Git
+ 
 🔎 Em busca de oportunidade de **Estágio**
 
 📌 Roadmap de estudos:  
