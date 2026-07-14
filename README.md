@@ -1,13 +1,8 @@
-Boa 😄 então vou te entregar uma versão padrão README de dev iniciante full stack + focada em recrutador de estágio em TI, já estruturada do jeito que a galera usa hoje em perfil profissional.
-
-Pode copiar e colar direto no seu README.md 👇
-
 # 👋 Olá! Eu sou o Breno Camargo
 
-🎓 Estudante de Tecnologia da Informação — 2º semestre  
-💻 Focado em Desenvolvimento de Software  
-🚀 Em formação para atuar como Desenvolvedor Full Stack  
-🔎 Em busca de oportunidade de **Estágio em Desenvolvimento**
+ 🎓 Estudante de Análise e Desenvolvimento de Sistemas — 3º semestre 
+ 💻 Python • SQL • HTML • CSS • Git
+🔎 Em busca de oportunidade de **Estágio**
 
 📌 Roadmap de estudos:  
 🔗 https://trello.com/b/TLKZDX4K/estudos-dev
@@ -17,37 +12,35 @@ Pode copiar e colar direto no seu README.md 👇
 ## 👨‍💻 Sobre mim
 
 Sou estudante de TI com foco em desenvolvimento e construção de soluções práticas.  
-Possuo base sólida em **Python**, desenvolvendo projetos voltados para lógica de programação, automação e sistemas simples.
+Possuo conhecimentos em Python, desenvolvendo projetos voltados para lógica de programação, automação e sistemas.
 
-Atualmente estou evoluindo na área de **Desenvolvimento Web**, buscando uma formação completa para atuar como desenvolvedor Full Stack.
 
 🧠 Perfil:
 - Focado em aprendizado contínuo
 - Organização com Scrum e Kanban
 - Desenvolvimento de projetos práticos
-- Evolução constante em tecnologias web e backend
+- Evolução constante em tecnologias
 
 📚 Próximos estudos:
-- Java
 - Banco de Dados
-- APIs e Backend Web
+- APIs
 
 ---
 
 ## 🛠️ Tecnologias e Ferramentas
 
-### 🐍 Backend / Lógica
+### Programação
 - Python
 - Estruturas de dados
 - Funções e modularização
 - Sistemas CRUD simples
 - Projetos em terminal
+- Json
 
 ### 🌐 Frontend (em desenvolvimento)
 - HTML
 - CSS
-- JavaScript
-- TypeScript
+
 
 ### ⚙️ Metodologias e Ferramentas
 - Git & GitHub
@@ -56,6 +49,10 @@ Atualmente estou evoluindo na área de **Desenvolvimento Web**, buscando uma for
 - Kanban
 - VS Code
 
+### 🛢 Dados
+- Python
+- SQL (em desenvolvimento)
+  
 ---
 
 ## 📦 Projetos em Destaque
@@ -66,23 +63,19 @@ Projeto web desenvolvido para praticar estruturação de páginas e desenvolvime
 🔗 https://brenoonan.github.io/Site_Sp_News/
 
 ### 🐍 Sistema de Controle de Estoque
-Sistema em Python com funcionalidades CRUD para gerenciamento de produtos.
-
-### 📱 Loja de Eletrônicos (Python)
-Projeto focado em lógica de programação e manipulação de dados.
-
+Sistema desenvolvido em Python com funcionalidades CRUD para gerenciamento de produtos, utilizando modularização, JSON e controle de estoque.
 ---
 
 ## 🎯 Objetivo Profissional
 
-Busco uma oportunidade de **estágio em desenvolvimento**, onde eu possa:
+Busco uma oportunidade de estágio para aplicar meus conhecimentos, colaborar em projetos reais e continuar evoluindo tecnicamente na área de tecnologia.
 
 - Aplicar conhecimentos técnicos na prática
 - Aprender com desenvolvedores experientes
 - Evoluir como profissional da área de tecnologia
 - Contribuir com projetos reais e soluções eficientes
 
-Tenho grande interesse em desenvolvimento backend e full stack, com foco em crescimento contínuo e boas práticas de programação.
+
 
 ---
 
@@ -91,6 +84,7 @@ Tenho grande interesse em desenvolvimento backend e full stack, com foco em cres
 💼 GitHub: https://github.com/BrenoOnan  
 📌 Roadmap de estudos: https://trello.com/b/TLKZDX4K/estudos-dev
 
+💼 LinkedIn: https://www.linkedin.com/in/breno-onan-camargo/
 ---
 
 ⭐ Obrigado por visitar meu perfil!  
