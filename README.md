@@ -1,101 +1,63 @@
 # 👋 Olá! Eu sou o Breno Camargo
 
- 🎓 Estudante de Análise e Desenvolvimento de Sistemas — 3º semestre 
- 
- 💻 Python • SQL • HTML • CSS • Git
- 
-🔎 Em busca de oportunidade de **Estágio**
+📊 **Analista de Dados & BI** | 🎓 Estudante de Análise e Desenvolvimento de Sistemas (3º/5º Semestre)
 
-📌 Roadmap de estudos:  
-🔗 https://trello.com/b/TLKZDX4K/estudos-dev
+💻 SQL • Power BI • Python • Docker • MySQL 
+
+🎯 Em busca de oportunidades nas áreas de **Análise de Dados, Business Intelligence e Engenharia de Dados**.
 
 ---
 
-## 👨‍💻 Sobre mim
+## 👨‍💻 Sobre Mim
 
-Sou estudante de TI com foco em desenvolvimento e construção de soluções práticas.  
-Possuo conhecimentos em Python, desenvolvendo projetos voltados para lógica de programação, automação e sistemas.
+Sou estudante de TI,  fransformando dados brutos em inteligência e estratégia de negócio. Meu foco principal está no desenvolvimento de soluções.
 
-
-🧠 Perfil:
-
-• Gosto de aprender na prática por meio de projetos.
-
-• Busco escrever códigos cada vez mais organizados e reutilizáveis.
-
-• Valorizo organização e planejamento utilizando Scrum e Kanban.
-
-• Estou em constante evolução, sempre buscando novos conhecimentos.
-
-📚 Próximos estudos:
-- Banco de Dados
-- APIs
+🧠 **O que você vai encontrar no meu GitHub:**
+- **Projetos End-to-End:** Soluções completas unindo bancos de dados relacionais e ferramentas de BI.
+- **Modelagem & SQL Avançado:** Queries otimizadas, criação de Triggers, Views e tratamento rigoroso de integridade referencial.
+- **Cultura de Código Limpo:** Python, controle de estoque.
 
 ---
 
 ## 🛠️ Tecnologias e Ferramentas
 
-### Programação
-- Python
-- Estruturas de dados
-- Funções e modularização
-- Sistemas CRUD simples
-- Projetos em terminal
-- Json
+### 📊 Análise de Dados & BI
+- **Power BI Desktop:** DAX, Power Query, Star Schema, Relatórios Interativos e KPIs.
+- **Python:** Lógica de programação, estruturas de dados e manipulação de arquivos.
 
-### 🌐 Frontend (em desenvolvimento)
-- HTML
-- CSS
+### 🛢️ Banco de Dados & Engenharia
+- **MySQL / SQL:** DDL, DML, Joins, Triggers, Constraints e Modelagem Relacional.
+- **Ambiente & Ferramentas:** Docker (contêineres), DBeaver e VS Code.
 
+### ⚙️ Versionamento & Metodologias
+- **Git & GitHub:** Versionamento de scripts e documentação de projetos.
+- **Agile:** Scrum, Kanban e gestão de tarefas no Trello.
 
-### ⚙️ Metodologias e Ferramentas
-- Git & GitHub
-- Trello
-- Scrum
-- Kanban
-- VS Code
-
-### 🛢 Dados
-- Python
-- SQL (em desenvolvimento)
-  
 ---
 
 ## 📦 Projetos em Destaque
 
-### 📰 SP News — Site de Notícias
-Projeto web desenvolvido para praticar estruturação de páginas e desenvolvimento frontend.
+### 🚀 NovaMarket — E-commerce Data Pipeline & Dashboard
+Projeto completo de Engenharia e Análise de Dados para um e-commerce fictício.
+- **Banco de Dados:** Instância MySQL rodando em contêiner **Docker**, com 6 tabelas relacionais integradas e Triggers automáticos.
+- **ETL & Modelagem:** Tratamento de tipos de dados e construção de Star Schema no Power Query.
+- **Business Intelligence:** Dashboard em Power BI monitorando Faturamento Total (R$ 184,79k), Margem de Lucro e Vendas por Categoria/Produto.
 
-🔗 https://brenoonan.github.io/Site_Sp_News/
-
-### 🐍 Sistema de Controle de Estoque
-Sistema desenvolvido em Python com funcionalidades CRUD para gerenciamento de produtos, utilizando modularização, JSON e controle de estoque.
----
-
-## 🎯 Objetivo Profissional
-
-Busco uma oportunidade de estágio para aplicar meus conhecimentos, colaborar em projetos reais e continuar evoluindo tecnicamente na área de tecnologia.
-
-- Aplicar conhecimentos técnicos na prática
-- Aprender com desenvolvedores experientes
-- Evoluir como profissional da área de tecnologia
-- Contribuir com projetos reais e soluções eficientes
-
-
+### 🐍 Sistema de Controle de Estoque em Python
+Aplicação em Python desenvolvida com arquitetura modular e funcionalidades CRUD completas.
+- Armazenamento e persistência de dados utilizando JSON.
+- Controle de movimentação e validação de estoque em terminal.
 
 ---
 
-## 📫 Contato
+## 📫 Vamos nos conectar?
 
-💼 GitHub: https://github.com/BrenoOnan  
-📌 Roadmap de estudos: https://trello.com/b/TLKZDX4K/estudos-dev
+💼 **LinkedIn:** [Breno Camargo](https://www.linkedin.com/in/breno-onan-camargo/)  
+🐙 **GitHub:** [BrenoOnan](https://github.com/BrenoOnan)  
+📌 **Roadmap de Estudos:** [Painel no Trello](https://trello.com/b/TLKZDX4K/estudos-dev)
 
-💼 LinkedIn: https://www.linkedin.com/in/breno-onan-camargo/
 ---
-
-⭐ Obrigado por visitar meu perfil!  
-Sempre aprendendo, evoluindo e construindo novos projetos 🚀
-
+⭐ *Sempre transformando dados em decisões estratégicas!* 🚀
 <!--
 **BrenoOnan/BrenoOnan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
