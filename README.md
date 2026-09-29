@@ -1,5 +1,12 @@
 # 👋 Olá! Eu sou o Breno Camargo
 
+[![MySQL](https://img.shields.io/badge/Database-MySQL-blue?logo=mysql&logoColor=white)](#)
+[![SQL](https://img.shields.io/badge/Language-SQL-orange?logo=mysql&logoColor=white)](#)
+[![Power BI](https://img.shields.io/badge/Analytics-Power_BI-F2C94C?logo=powerbi&logoColor=black)](#)
+[![Docker](https://img.shields.io/badge/Container-Docker-2496ED?logo=docker&logoColor=white)](#)
+[![Python](https://img.shields.io/badge/Language-Python-3776AB?logo=python&logoColor=white)](#)
+[![Excel](https://img.shields.io/badge/Tool-Microsoft_Excel-217346?logo=microsoftexcel&logoColor=white)](#)
+
 📊 **Analista de Dados & BI** | 🎓 Estudante de Análise e Desenvolvimento de Sistemas (3º/5º Semestre)
 
 💻 SQL • Power BI • Python • Docker • MySQL 
