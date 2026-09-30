@@ -20,7 +20,7 @@
 Sou estudante de TI,  fransformando dados brutos em inteligência e estratégia de negócio. Meu foco principal está no desenvolvimento de soluções.
 
 🧠 **O que você vai encontrar no meu GitHub:**
-- **Projetos End-to-End:** Soluções completas unindo bancos de dados relacionais e ferramentas de BI.
+- **Projetos:** Soluções completas unindo bancos de dados relacionais e ferramentas de BI.
 - **Modelagem & SQL Avançado:** Queries otimizadas, criação de Triggers, Views e tratamento rigoroso de integridade referencial.
 - **Cultura de Código Limpo:** Python, controle de estoque.
 
